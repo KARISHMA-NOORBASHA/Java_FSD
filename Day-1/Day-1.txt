@@ -1,0 +1,11 @@
+->HTML Contains Series of "ELEMENTS" 
+->present version of HTML is "HTML 5"
+
+HTML boiler plate : 
+-------------------
+HTML boiler plate 
+
+
+
+
+
